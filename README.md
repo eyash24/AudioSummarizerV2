@@ -1,10 +1,10 @@
 # AudioSummarizerV2
 
 ## Downlaod the VOSK Model
-Vosk model can either be downlaoded through the below link<br>
+Vosk model can either be downlaoded through the below link
 [vosk-model-en-us-0.22](https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip)
 or throught the website 
-[webiste](https://alphacephei.com/vosk/models)
+[webiste](https://alphacephei.com/vosk/models).
 Do rename the file and pass the file path to the voice.ipynb
 
 ## Setup Environment
