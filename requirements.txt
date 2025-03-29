@@ -1,0 +1,5 @@
+vosk
+transformers
+pydub
+torch
+ipywidgets
