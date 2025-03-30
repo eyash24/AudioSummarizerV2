@@ -1,6 +1,6 @@
 # AudioSummarizerV2
 
-## Downlaod the VOSK and Recasepunc Model
+## Download the VOSK and Recasepunc Model
 Vosk model can either be downlaoded through the link
 [vosk-model-en-us-0.22](https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip) link
 or throught the
