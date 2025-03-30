@@ -5,7 +5,7 @@ Vosk model can either be downlaoded through the below link
 [vosk-model-en-us-0.22](https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip)
 or throught the website 
 [website](https://alphacephei.com/vosk/models).<br>
-Recasepunc model can be downloaded from the same website as Vosk model.
+Recasepunc model can be downloaded from the same website. It is listed under the Punctuation models as vosk-recasepunc-en-0.22.
 Do rename the file and pass the file path to the voice.ipynb
 
 
