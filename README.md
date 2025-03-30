@@ -1,11 +1,15 @@
 # AudioSummarizerV2
 
-## Downlaod the VOSK Model
+## Downlaod the VOSK and Recasepunc Model
 Vosk model can either be downlaoded through the below link
 [vosk-model-en-us-0.22](https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip)
 or throught the website 
-[webiste](https://alphacephei.com/vosk/models).
+[website](https://alphacephei.com/vosk/models).<br>
+Recasepunc model can be downloaded from the same website as Vosk model.
 Do rename the file and pass the file path to the voice.ipynb
+
+
+
 
 ## Setup Environment
 Create a new environment and download the required libraries using requirements.txt file
