@@ -16,7 +16,7 @@ Create a new environment and download the required libraries using requirements.
 
 ## Run the project
 Execute the Run All option inside the voice.ipynb notebook.
-This will downlaod the additional models required by the project to run.
+This will download the additional models required by the project to run.
 After running it for the first time, remember to comment out the Download & Save commands in the voice.ipynb notebook
 
 
